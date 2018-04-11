@@ -777,3 +777,7 @@ body{
 li{
     left: 0;
 }
+
+.img-circle{
+    max-width: 110px;
+}
